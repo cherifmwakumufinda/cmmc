@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Remplacez VOTRE-COMPTE par votre nom d'utilisateur GitHub après publication -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/parcours.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/engagements.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/realisations.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/distinctions.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/actualites.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>

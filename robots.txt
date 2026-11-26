@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Après publication, remplacez VOTRE-COMPTE par votre nom d'utilisateur GitHub :
+Sitemap: https://VOTRE-COMPTE.github.io/cherif-mwaku-portfolio/sitemap.xml
